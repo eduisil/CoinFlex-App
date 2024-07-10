@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+
+env/
+
+base.html
+CHANGELOG.md
+ISSUE_TEMPLATE.md
+LICENSE.md
+package.json
+index.html
